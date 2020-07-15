@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.3.1.v20200604-0245_78?>
+<!--Topaz for Total Test 20.3.1.v20200604-0245_78 2020/07/15 15:28:00-->
+<testsuite:testsuite xmlns:testsuite="http://www.compuware.com/model/xml/testsuite" id="Unit%20Test/Suites/Default%20Suites%20Entry.testsuite">
+  <testsuite:testscenario>../Scenarios/CWXTCOB_Scenario2.testscenario#Unit%20Test/Scenarios/CWXTCOB_Scenario2.testscenario</testsuite:testscenario>
+</testsuite:testsuite>
